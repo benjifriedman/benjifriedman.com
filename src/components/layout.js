@@ -29,11 +29,12 @@ const Layout = ({ children }) => {
       <div
         style={{
           margin: `100px auto`,
-          marginLeft: `40px`,
           marginTop: `30px`,
           maxWidth: 500,
           padding: `0 1.0875rem 1.45rem`,
         }}
+
+        className="containerDiv"
       >
 
         <Header />

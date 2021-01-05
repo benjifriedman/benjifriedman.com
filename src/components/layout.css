@@ -624,3 +624,9 @@ Link:hover {
 .pageTitle {
   font-weight: bold;
 }
+
+@media only screen and (max-width: 450px) {
+  .containerDiv {
+    margin-left: 25px;
+  }
+}
