@@ -16,13 +16,6 @@ const Paintings = () => (
         src="https://res.cloudinary.com/benjifri/image/upload/v1610006303/benjifriedman.com%202021/paintings/1.jpg"
       />
     </div>
-
-    <div className="imgContainer">
-      <img
-        alt=""
-        src="https://res.cloudinary.com/benjifri/image/upload/v1610006303/benjifriedman.com%202021/paintings/1.jpg"
-      />
-    </div>
     <div className="imgContainer">
       <img
         alt=""
